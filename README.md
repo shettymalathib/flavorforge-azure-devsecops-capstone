@@ -1075,7 +1075,7 @@ The cluster hosts the frontend and backend workloads and integrates with ACR, Ku
 
 #### Evidence
 
-![AKS Workloads](screenshots/azure/15-AKS%20Workloads%20\(Deployments%20%26%20Pods\).png)
+![AKS Workloads](/screenshots/azure/15-AKS%20Workloads%20\(Deployments%20%26%20Pods\).png)
 
 *Figure 11.3 – AKS displaying deployed frontend and backend workloads, ReplicaSets, and running Pods.*
 
@@ -1188,7 +1188,7 @@ Examples include:
 
 #### Evidence
 
-![Kubernetes Secrets](screenshots/kubernetes/secrets/1-kubectl-get-secrets-n-flavorforge.png)
+![Kubernetes Secrets](/screenshots/kubernetes/secrets/1-kubectl-get-secrets-n-flavorforge.png)
 
 *Figure 12.5 – Kubernetes Secrets managing sensitive application configuration.*
 
