@@ -1248,7 +1248,7 @@ Ingress provides:
 
 #### Evidence
 
-![Services and Ingress](/screenshots/azure/22-Services%20%26%20Ingress.png)
+![Services and Ingress](/screenshots/azure/22-services-ingress.png)
 
 *Figure 13.1 – Kubernetes Services and Ingress routing external traffic to the FlavorForge application.*
 
