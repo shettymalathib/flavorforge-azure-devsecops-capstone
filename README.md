@@ -1075,7 +1075,7 @@ The cluster hosts the frontend and backend workloads and integrates with ACR, Ku
 
 #### Evidence
 
-![AKS Workloads](/screenshots/azure/15-AKS%20Workloads%20\(Deployments%20%26%20Pods\).png)
+![AKS Workloads](/screenshots/azure/15-aks-workloads-deployments-pods.png).png)
 
 *Figure 11.3 – AKS displaying deployed frontend and backend workloads, ReplicaSets, and running Pods.*
 
@@ -1248,7 +1248,7 @@ Ingress provides:
 
 #### Evidence
 
-![Services and Ingress](screenshots/azure/22-Services%20%26%20Ingress.png)
+![Services and Ingress](/screenshots/azure/22-Services%20%26%20Ingress.png)
 
 *Figure 13.1 – Kubernetes Services and Ingress routing external traffic to the FlavorForge application.*
 
